@@ -1,0 +1,2 @@
+rootProject.name = "ParteTresActivity"
+include ':app'
